@@ -20,3 +20,9 @@ DATABASE :
 
 Untuk database ada di folder function/koneksi.php sesuaikan dengan web server kalian
 
+Untuk XAMPP : 
+- Host : 'localhost'
+- Username : 'root'
+- Password: ''
+
+Masuk Ke phpmyadmin lalu buat database dengan nama datasiswa lalu import file database yang disediakan
