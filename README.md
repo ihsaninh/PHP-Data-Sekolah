@@ -25,4 +25,4 @@ Untuk XAMPP :
 - Username : 'root'
 - Password: ''
 
-Masuk Ke phpmyadmin lalu buat database dengan nama datasiswa lalu import file database yang disediakan
+Masuk Ke phpmyadmin lalu buat database dengan nama db_sekolah lalu import file database yang disediakan
